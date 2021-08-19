@@ -1,1 +1,1 @@
-# ldh-dash
+# python-naver-news
